@@ -11,7 +11,7 @@ using namespace std;
 #define CASTLE_LEVEL         (18507)
 #define HERO_ALLICE          (12042)
 #define HERO_DORO            (13479)
-#define HERO_SOLAR           (10200)
+#define HERO_SOLAR           (10200) 
 #define HERO_FLAME_OAK       (10000)
 #define HERO_LISA            (7500)
 #define HERO_GOBLIN          (11000)
