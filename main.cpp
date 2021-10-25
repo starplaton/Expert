@@ -30,7 +30,7 @@ using namespace std;
 
 // F
 ll getHeroCost(ll current_level, ll level1_price = 7500){
-	if (current_level <= 0) {
+	if (current_level <= 0) { 
 		return 0;
 	}
 	if (current_level == 1) {
