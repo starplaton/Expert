@@ -8,4 +8,4 @@ for i in str(n):
 li.sort(reverse=True) # 내림차순
  
 for i in li:
-    print(i,end='')
+    print(i,end='') 
