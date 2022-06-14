@@ -1,32 +1,7 @@
-- [1. Object](#1-object)
-  - [1.1. Health](#11-health)
-  - [1.2. Expert](#12-expert)
-  - [1.3. Climbing](#13-climbing)
-  - [1.4. Bodybuilding](#14-bodybuilding)
-  - [1.5. Language](#15-language)
-- [2. Algorithm](#2-algorithm)
-- [3. Architect](#3-architect)
-  - [3.1. Object-Oriented](#31-object-oriented)
-  - [3.2. Object-Oriented Principles](#32-object-oriented-principles)
-  - [3.3. Object-Oriented Development](#33-object-oriented-development)
-  - [3.4. An Introduction to UML](#34-an-introduction-to-uml)
-  - [3.5. Use Case Diagram](#35-use-case-diagram)
-- [4. Abbreviation](#4-abbreviation)
-- [5. Code](#5-code)
-  - [5.1. Python](#51-python)
-  - [5.2. C++](#52-c)
-  - [5.3. Java script](#53-java-script)
-- [6. SELF branding](#6-self-branding)
-  - [6.1. Tistory](#61-tistory)
-  - [6.2. Naver Blog](#62-naver-blog)
-  - [6.3. Instagram](#63-instagram)
-- [7. Book Report 讀後感](#7-book-report-讀後感)
-- [8. Son](#8-son)
-- [9. Reference](#9-reference)
 
 # 1. Object
 
-**The first half of the 2022 Object**
+The first half of the 2022 Object
 
 ## 1.1. Health
 
@@ -36,7 +11,7 @@
 ## 1.2. Expert
 
 - 2022.06 ~
-  - 2022.06.04
+  - 2022.06.**04**
 
 ## 1.3. Climbing
 
